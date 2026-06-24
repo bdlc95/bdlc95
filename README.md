@@ -81,14 +81,14 @@ Aplicação monolítica corporativa com JSF, CDI e JPA rodando no WildFly 40.
 
 ---
 
-#### Efood (Front-End)
+#### [Efood (Front-End)](https://github.com/bdlc95/efood)
 Aplicação web de delivery baseada em layouts do Figma.
 - Gerenciamento de carrinho global com Redux e consumo de APIs assíncronas
 - **Tecnologias:** React · TypeScript · Redux Toolkit · Styled Components
 
 ---
 
-#### Agenda de Contatos (Front-End)
+#### [Agenda de Contatos (Front-End)](https://github.com/bdlc95/lista_de_contatos_projeto2)
 Aplicação para gerenciamento de contatos com interface responsiva.
 - Refatoração completa da arquitetura de estados para otimização do fluxo de dados
 - **Tecnologias:** React · Redux · Styled Components
