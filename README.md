@@ -16,8 +16,11 @@ Desenvolvedor Full Stack Júnior focado em construir aplicações modernas, robu
 #### **Front-End**
 - **Linguagens:** TypeScript, JavaScript (ES6+)
 - **Biblioteca Base:** React
-- **Gerenciamento de Estado:** Redux Toolkit, RTK Query
-- **Automação & Estilização:** Gulp (v4.0.2), Styled Components, Bootstrap
+- **Gerenciamento de Estado:** Redux Toolkit, Redux (Legacy), RTK Query
+- **Estilização & UI:** Styled Components, Bootstrap, CSS3 (Flexbox/Grid), HTML5
+- **Efeitos & Animações:** AOS (Animate On Scroll), Slick Carousel
+- **Utilitários & Validações:** jQuery Validation Plugin, Feather Icons
+- **Automação & Transpilação:** Gulp (v4.0.2), Browserslist
 
 ---
 
