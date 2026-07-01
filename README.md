@@ -56,9 +56,28 @@ Desenvolvedor Full Stack Júnior focado em construir aplicações modernas, robu
 
 ### 🚀 Projetos em Destaque
 
+#### [AI Code Reviewer - Full Stack com IA (Back-End)](https://github.com/bdlc95/ai-code-reviewer)
+API REST desenvolvida para análise automatizada de código-fonte utilizando Inteligência Artificial.
+- Arquitetura em camadas completa (**Controller → Service → OpenAI API**)
+- Análise de código baseada em **SOLID**, **Clean Code**, legibilidade e manutenibilidade
+- Integração com OpenAI para geração de feedback técnico em tempo real
+- Tratamento global de exceções e uso de DTOs
+- **Tecnologias:** Java · Spring Boot · REST API · OpenAI API · Maven
+
+---
+
+#### [AI Code Reviewer - Front-End](https://github.com/bdlc95/ai-code-reviewer-front)
+Interface web para análise inteligente de código em tempo real.
+- Permite colar trechos de código e receber feedback automatizado gerado por IA
+- Integração completa com API REST desenvolvida em Spring Boot
+- Interface moderna e responsiva
+- **Tecnologias:** React · TypeScript · Vite · Axios · CSS
+
+---
+
 #### [ms-cliente & ms-produto](https://github.com/bdlc95) · Microsserviços com Spring Boot
 Dois microsserviços independentes com bancos de dados separados e comunicação via OpenFeign.
-- Arquitetura em camadas completa (Controller → Service → Repository) em cada serviço
+- Arquitetura em camadas completa (**Controller → Service → Repository**) em cada serviço
 - `ms-cliente` (porta 8081) consome dados de `ms-produto` (porta 8082) via OpenFeign
 - Bancos PostgreSQL independentes por serviço
 - **Tecnologias:** Java · Spring Boot · Spring Data JPA · OpenFeign · PostgreSQL · Maven
@@ -74,9 +93,9 @@ Projeto com dupla persistência integrando PostgreSQL e MongoDB em uma mesma apl
 ---
 
 #### [sistema-produto](https://github.com/bdlc95/sistema-produto) · Jakarta EE com WildFly
-Aplicação monolítica corporativa com JSF, CDI e JPA rodando no WildFly 40.
+Aplicação monolítica corporativa com JSF, CDI e JPA rodando no WildFly.
 - Datasource configurado via JNDI no servidor de aplicação
-- Deploy como WAR no WildFly 40.0.0.Final
+- Deploy como WAR em servidor de aplicação
 - **Tecnologias:** Java · Jakarta EE · JSF · CDI · JPA/Hibernate · WildFly · PostgreSQL
 
 ---
@@ -90,10 +109,8 @@ Aplicação web de delivery baseada em layouts do Figma.
 
 #### [Agenda de Contatos (Front-End)](https://github.com/bdlc95/lista_de_contatos_projeto2)
 Aplicação para gerenciamento de contatos com interface responsiva.
-- Refatoração completa da arquitetura de estados para otimização do fluxo de dados
+- Refatoração da arquitetura de estados para otimização do fluxo de dados
 - **Tecnologias:** React · Redux · Styled Components
-
----
 
 ### 📊 GitHub Stats
 
