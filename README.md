@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/">
+  <a href="https://bdlc95.github.io/bruno-cv-site/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio--PT--BR-57F58E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=06130A" alt="Portfólio-PT-BR">
   </a>
-  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/en/">
+  <a href="https://bdlc95.github.io/bruno-cv-site/en/">
     <img src="https://img.shields.io/badge/Portfolio--EN-163B27?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio-EN">
   </a>
   <a href="https://www.linkedin.com/in/bruno-de-lima6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
