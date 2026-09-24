@@ -11,8 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/"><img alt="Portfólio em português" src="https://img.shields.io/badge/PORTF%C3%93LIO-57F58E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=06130A"></a>
-  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/en/"><img alt="Portfolio in English" src="https://img.shields.io/badge/ENGLISH-163B27?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio--PT--BR-57F58E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=06130A" alt="Portfólio-PT-BR">
+  </a>
+  <a href="https://bruno-de-lima-carneiro-cv.jadekarolyneap.chatgpt.site/en/">
+    <img src="https://img.shields.io/badge/Portfolio--EN-163B27?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio-EN">
+  </a>
   <a href="https://www.linkedin.com/in/bruno-de-lima6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="https://github.com/bdlc95"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
   <a href="mailto:bdlc95@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--MAIL-2C5D39?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
