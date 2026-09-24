@@ -129,16 +129,6 @@ Desenvolvimento Full Stack Java · EBAC · 2025–2026
 
 Ciências Biológicas · Estácio de Sá · 2023–2027
 
-<details>
-<summary><strong>📊 GitHub em números</strong></summary>
-<br>
-
-<p align="center">
-  <img alt="Estatísticas do GitHub de Bruno" src="https://github-readme-stats.vercel.app/api?username=bdlc95&amp;show_icons=true&amp;theme=github_dark&amp;title_color=57F58E&amp;icon_color=57F58E&amp;text_color=E8F5E9&amp;bg_color=0D1117&amp;hide_border=true">
-  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdlc95&amp;layout=compact&amp;theme=github_dark&amp;title_color=57F58E&amp;text_color=E8F5E9&amp;bg_color=0D1117&amp;hide_border=true">
-</p>
-
-</details>
 
 <p align="center">
   <strong>Vamos conversar?</strong><br>
